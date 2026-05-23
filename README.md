@@ -137,18 +137,6 @@ Three orthogonal detection dimensions:
 
 An attack is considered **stealthy** if it triggers zero detectors across all three dimensions.
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{anonymous2026integrity,
-  title={Integrity-Preserving Supply-Chain Attack on LLM Watermarking},
-  author={Anonymous},
-  booktitle={Proceedings of the Annual Computer Security Applications Conference (ACSAC)},
-  year={2026}
-}
-```
 
 ## Ethical Statement
 
